@@ -4,8 +4,6 @@ A simple task manager where each person has a private account to create, organis
 
 **Live app:** https://task-track-oogf.onrender.com
 
-Hosted on a free plan, so the first load can take about a minute.
-
 ## The task
 
 Build a simple application that allows users to create and manage tasks.
@@ -28,6 +26,28 @@ Creating and managing tasks means being able to add, view, edit, complete and de
 - A layout that works on phones
 
 **Built with:** MongoDB, Express, React, Node.js and TypeScript
+
+## Screenshots
+
+**Log in**
+
+![Log in page](docs/screenshots/login.png)
+
+**Before adding tasks**
+
+![Welcome screen for a new user](docs/screenshots/empty-board.png)
+
+**Adding a task**
+
+![New task form](docs/screenshots/task-form.png)
+
+**After adding tasks: board view**
+
+![Board with tasks in To do, In progress and Done](docs/screenshots/board.png)
+
+**List view**
+
+![Tasks in a list sorted by urgency](docs/screenshots/list.png)
 
 ## Run it locally
 
